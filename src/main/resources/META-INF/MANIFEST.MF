@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: zt-zip-1.14.jar slf4j-api-1.6.6.jar jsoup-1.14.3.jar
+
